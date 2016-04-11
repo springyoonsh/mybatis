@@ -137,8 +137,12 @@
 		        <version>1.0.2</version>
 		    </dependency>
 		
-		
-		
+		<!-- 마이바티스 SQL 로그나오게 하는 플러그인 -->
+		<dependency>
+			<groupId>org.lazyluke</groupId>
+			<artifactId>log4jdbc-remix</artifactId>
+			<version>0.2.7</version>
+		</dependency>
 		
 		      
 	</dependencies>
